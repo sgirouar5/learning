@@ -1,0 +1,26 @@
+
+
+ADD/COMMIT:
+
+git add filename.txt
+All files:
+git add -A
+git commit -m "message"
+
+
+git status
+
+git log
+
+git revert commit#useAtLEastAcouple
+
+
+
+to create branches
+git branch mybranch 
+
+to list branches
+git branch
+
+to switch to branch
+git checkout branch
